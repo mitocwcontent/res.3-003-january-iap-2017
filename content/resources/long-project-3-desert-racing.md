@@ -7,9 +7,9 @@ title: 'Long Project 3: Desert Racing'
 uid: 08e18cf2-8726-6899-ad8b-02c8c7c21df5
 video_files:
   archive_url: https://archive.org/download/MITRES.3-003IAP17/MITRES_3-003IAP17_Long_Project_03_300k.mp4
-  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/703a7ce6bdeb5942a868abfbbbef4d5a_gDpkinitSRM.vtt
+  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/bc5e6fc9ad605c0f8461907928f00c18_gDpkinitSRM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/gDpkinitSRM/default.jpg
-  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/2fba5ca0cafbde10e522e833299fd79f_gDpkinitSRM.pdf
+  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/c9ca916ace9d6832ee6497f5af1c86fc_gDpkinitSRM.pdf
 video_metadata:
   youtube_id: gDpkinitSRM
 ---

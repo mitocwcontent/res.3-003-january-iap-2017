@@ -7,9 +7,9 @@ title: 'Short Project 6: Car Racing'
 uid: e830ac59-cbcd-e803-4816-59a041289999
 video_files:
   archive_url: https://archive.org/download/MITRES.3-003IAP17/MITRES_3-003IAP17_Short_Project_06_300k.mp4
-  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/36a0ccff43fb5118af383a2bd998e728_EIWhCCjSkPU.vtt
+  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/ddab059d806c5354bb808df96fc51753_EIWhCCjSkPU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/EIWhCCjSkPU/default.jpg
-  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/7558756caa7c6e3eebe8c12f0fe7d03c_EIWhCCjSkPU.pdf
+  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6c07c476b39e36434f5e75aae22532ef_EIWhCCjSkPU.pdf
 video_metadata:
   youtube_id: EIWhCCjSkPU
 ---
